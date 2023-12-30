@@ -5,6 +5,6 @@ import Link from "next/link"
 
 export function Signup() {
   return <Button>
-    <Link href="@/app/signup/page"></Link>
+    <Link href="@/app/(auth)/sign-up/page"></Link>
     </Button>
 }

@@ -65,7 +65,7 @@ export default function Manu() {
 
       <NavigationMenuList>
         <NavigationMenuItem className="ml-7">
-          <Link href={'/profile'} className="text-white">Profile</Link>
+          <Link href={'/profile'} className="text-gray">Profile</Link>
         </NavigationMenuItem>
 
         <NavigationMenuItem>

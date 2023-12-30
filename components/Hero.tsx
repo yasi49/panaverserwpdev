@@ -13,7 +13,7 @@ export default function Hero() {
         </h1>
         <Button className='sm:mx-16 mx-10'>
             <Mail className='mr-2 h-4 w-4'/>
-            <Link href={'/signup'}>Signup</Link>
+            <Link href={'../sign-up'}>Signup</Link>
 
         </Button>
 

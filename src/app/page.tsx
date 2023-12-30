@@ -1,7 +1,7 @@
 import Hero from '../../components/Hero'
 import Navbar from '../../components/Navbar'
 import Image from 'next/image'
-import Signup from './signup/page'
+import Signupform from '@/components/form/signupform'
 
 
 
@@ -9,6 +9,7 @@ export default function Home() {
   return (
     <main>
       <Hero />
+      
     
     </main>
   )
